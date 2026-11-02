@@ -344,3 +344,15 @@ h2{line-height:1.12}
 .bcat h2{font-size:clamp(1.5rem,2.6vw,2rem);margin-bottom:1rem}
 .glist li[hidden],.bcat[hidden]{display:none}
 @media(max-width:900px){.bfeat{grid-template-columns:1fr}}
+
+/* ===== phone alignment fixes ===== */
+body h1,body h2,body .hero h1,body .phead h1,body .sh h2,body .cta h2{letter-spacing:-.025em}
+@media(max-width:800px){
+  .hfloat{padding:0 16px 1.4rem;gap:10px;justify-content:center}
+  .hfloat .fc{left:auto;right:auto;top:auto;flex:0 0 calc((100% - 20px)/3);width:calc((100% - 20px)/3);max-width:132px}
+  .fc1{--rot:-3deg}.fc2{--rot:2deg}.fc3{--rot:-2deg}
+}
+@media(max-width:600px){
+  .arc-item{--w:18vw;--s:16.5vw}
+  .arc-stage{height:clamp(150px,44vw,230px)}
+}

@@ -1,0 +1,1028 @@
+[
+ {
+  "status": "published",
+  "slug": "device-compatibility",
+  "title": "How to Check Whether Your Device Supports IPTV",
+  "category": "IPTV Setup & Installation",
+  "primary_keyword": "",
+  "secondary": "",
+  "date": "2026-10-14"
+ },
+ {
+  "status": "published",
+  "slug": "how-to-choose-an-iptv-plan",
+  "title": "How to Compare IPTV Subscription Plans",
+  "category": "IPTV Subscription Guides",
+  "primary_keyword": "",
+  "secondary": "",
+  "date": "2026-10-14"
+ },
+ {
+  "status": "published",
+  "slug": "iptv-explained",
+  "title": "What Is IPTV? A Beginner's Guide for the UK",
+  "category": "IPTV for Beginners",
+  "primary_keyword": "",
+  "secondary": "",
+  "date": "2026-10-14"
+ },
+ {
+  "status": "published",
+  "slug": "iptv-on-android-tv",
+  "title": "IPTV Setup Guide for Android TV and Google TV",
+  "category": "IPTV Setup & Installation",
+  "primary_keyword": "",
+  "secondary": "",
+  "date": "2026-10-14"
+ },
+ {
+  "status": "published",
+  "slug": "iptv-on-fire-tv",
+  "title": "IPTV Setup Guide for Amazon Fire TV Devices",
+  "category": "IPTV Setup & Installation",
+  "primary_keyword": "",
+  "secondary": "",
+  "date": "2026-10-14"
+ },
+ {
+  "status": "published",
+  "slug": "iptv-on-phones-tablets-computers",
+  "title": "IPTV Setup Guide for Phones, Tablets and Computers",
+  "category": "IPTV Setup & Installation",
+  "primary_keyword": "",
+  "secondary": "",
+  "date": "2026-10-14"
+ },
+ {
+  "status": "published",
+  "slug": "iptv-on-smart-tv",
+  "title": "IPTV Setup Guide for Compatible Smart TVs",
+  "category": "IPTV Setup & Installation",
+  "primary_keyword": "",
+  "secondary": "",
+  "date": "2026-10-14"
+ },
+ {
+  "status": "published",
+  "slug": "streaming-buffering-troubleshooting",
+  "title": "Fixing Common Streaming Connection Problems",
+  "category": "IPTV Troubleshooting",
+  "primary_keyword": "",
+  "secondary": "",
+  "date": "2026-10-14"
+ },
+ {
+  "status": "published",
+  "slug": "streaming-internet-requirements",
+  "title": "Internet Speed and Wi-Fi for Streaming Explained",
+  "category": "IPTV Troubleshooting",
+  "primary_keyword": "",
+  "secondary": "",
+  "date": "2026-10-14"
+ },
+ {
+  "status": "published",
+  "slug": "streaming-safety-and-privacy",
+  "title": "Streaming Safety and Privacy for UK Viewers",
+  "category": "IPTV Security & Privacy",
+  "primary_keyword": "",
+  "secondary": "",
+  "date": "2026-10-14"
+ },
+ {
+  "status": "published",
+  "slug": "how-iptv-works",
+  "title": "How IPTV Works: From Server to Your Screen",
+  "category": "IPTV Features & Technology",
+  "primary_keyword": "how IPTV works",
+  "secondary": "IPTV streaming explained; IPTV technology; how internet TV works",
+  "date": "2026-11-01"
+ },
+ {
+  "status": "published",
+  "slug": "iptv-vs-cable-tv",
+  "title": "IPTV vs Cable TV: Key Differences for UK Viewers",
+  "category": "IPTV Comparisons",
+  "primary_keyword": "IPTV vs cable TV",
+  "secondary": "IPTV or cable; internet TV vs cable; cable TV alternatives UK",
+  "date": "2026-11-01"
+ },
+ {
+  "status": "published",
+  "slug": "iptv-vs-satellite-tv",
+  "title": "IPTV vs Satellite TV: Which Suits Your Home?",
+  "category": "IPTV Comparisons",
+  "primary_keyword": "IPTV vs satellite TV",
+  "secondary": "IPTV or satellite; satellite TV alternative UK; dish vs internet TV",
+  "date": "2026-11-01"
+ },
+ {
+  "status": "published",
+  "slug": "iptv-vs-streaming-apps",
+  "title": "IPTV vs On-Demand Streaming Apps: What Is the Difference?",
+  "category": "IPTV Comparisons",
+  "primary_keyword": "IPTV vs streaming services",
+  "secondary": "live TV vs on demand; IPTV or Netflix style apps",
+  "date": "2026-11-01"
+ },
+ {
+  "status": "published",
+  "slug": "what-is-an-iptv-player-app",
+  "title": "What Is an IPTV Player App and How Do You Choose One?",
+  "category": "IPTV Applications",
+  "primary_keyword": "IPTV player app",
+  "secondary": "best IPTV player; IPTV app for smart TV; IPTV player features",
+  "date": "2026-11-01"
+ },
+ {
+  "status": "published",
+  "slug": "m3u-playlist-explained",
+  "title": "M3U Playlists Explained for IPTV Beginners",
+  "category": "IPTV Features & Technology",
+  "primary_keyword": "M3U playlist IPTV",
+  "secondary": "what is M3U; M3U URL explained; IPTV playlist",
+  "date": "2026-11-01"
+ },
+ {
+  "status": "published",
+  "slug": "xtream-codes-login-explained",
+  "title": "Xtream Codes Login Explained: Username, Password and Server",
+  "category": "IPTV Features & Technology",
+  "primary_keyword": "Xtream Codes login",
+  "secondary": "Xtream codes IPTV; IPTV username password server; IPTV app login",
+  "date": "2026-11-01"
+ },
+ {
+  "status": "published",
+  "slug": "what-is-epg-tv-guide",
+  "title": "What Is an EPG? The IPTV TV Guide Explained",
+  "category": "IPTV Features & Technology",
+  "primary_keyword": "IPTV EPG",
+  "secondary": "electronic programme guide; IPTV TV guide; EPG not working",
+  "date": "2026-11-01"
+ },
+ {
+  "status": "published",
+  "slug": "iptv-on-apple-tv",
+  "title": "IPTV on Apple TV: What to Check Before You Subscribe",
+  "category": "IPTV Devices",
+  "primary_keyword": "IPTV on Apple TV",
+  "secondary": "IPTV app Apple TV; Apple TV 4K IPTV; tvOS IPTV player",
+  "date": "2026-11-01"
+ },
+ {
+  "status": "published",
+  "slug": "iptv-on-iphone-and-ipad",
+  "title": "IPTV on iPhone and iPad: Setup Tips and Common Issues",
+  "category": "IPTV Devices",
+  "primary_keyword": "IPTV on iPhone",
+  "secondary": "IPTV iPad; iOS IPTV player; watch IPTV on iPhone",
+  "date": "2026-11-01"
+ },
+ {
+  "status": "published",
+  "slug": "iptv-on-windows-pc",
+  "title": "IPTV on a Windows PC: Player Options and Setup Checklist",
+  "category": "IPTV Devices",
+  "primary_keyword": "IPTV on Windows",
+  "secondary": "IPTV player Windows 11; IPTV on PC; watch IPTV on laptop",
+  "date": "2026-11-01"
+ },
+ {
+  "status": "published",
+  "slug": "iptv-on-mac",
+  "title": "IPTV on a Mac: Setting Up a Player App",
+  "category": "IPTV Devices",
+  "primary_keyword": "IPTV on Mac",
+  "secondary": "IPTV player macOS; IPTV MacBook; watch IPTV on Mac",
+  "date": "2026-11-01"
+ },
+ {
+  "status": "published",
+  "slug": "iptv-on-android-phones",
+  "title": "IPTV on Android Phones and Tablets: A Practical Guide",
+  "category": "IPTV Devices",
+  "primary_keyword": "IPTV on Android phone",
+  "secondary": "IPTV Android tablet; Android IPTV player; watch IPTV on Android",
+  "date": "2026-11-01"
+ },
+ {
+  "status": "published",
+  "slug": "iptv-wifi-vs-ethernet",
+  "title": "Wi-Fi or Ethernet for IPTV? Which Gives a Steadier Stream",
+  "category": "IPTV Streaming Quality",
+  "primary_keyword": "Ethernet vs Wi-Fi for IPTV",
+  "secondary": "IPTV wired connection; improve Wi-Fi for streaming; powerline adapter IPTV",
+  "date": "2026-11-01"
+ },
+ {
+  "status": "published",
+  "slug": "improve-wifi-for-streaming",
+  "title": "How to Improve Home Wi-Fi for Smoother IPTV Streaming",
+  "category": "IPTV Troubleshooting",
+  "primary_keyword": "improve Wi-Fi for streaming",
+  "secondary": "Wi-Fi buffering fix; router placement streaming; 5GHz streaming",
+  "date": "2026-11-01"
+ },
+ {
+  "status": "published",
+  "slug": "iptv-freezing-at-peak-times",
+  "title": "Why IPTV Freezes in the Evening and What You Can Do",
+  "category": "IPTV Troubleshooting",
+  "primary_keyword": "IPTV freezing evening",
+  "secondary": "IPTV buffering peak time; streaming slow in evenings; IPTV lag at night",
+  "date": "2026-11-01"
+ },
+ {
+  "status": "published",
+  "slug": "iptv-no-audio-or-out-of-sync",
+  "title": "IPTV Has No Sound or Audio Out of Sync: How to Fix It",
+  "category": "IPTV Troubleshooting",
+  "primary_keyword": "IPTV no sound",
+  "secondary": "IPTV audio out of sync; IPTV sound problem; lip sync IPTV fix",
+  "date": "2026-11-01"
+ },
+ {
+  "status": "published",
+  "slug": "iptv-channels-not-loading",
+  "title": "IPTV Channels Not Loading: A Step-by-Step Checklist",
+  "category": "IPTV Troubleshooting",
+  "primary_keyword": "IPTV channels not loading",
+  "secondary": "IPTV not working; IPTV black screen; IPTV loading forever",
+  "date": "2026-11-01"
+ },
+ {
+  "status": "published",
+  "slug": "hd-vs-4k-iptv-streaming",
+  "title": "HD vs 4K IPTV Streaming: What You Really Need",
+  "category": "IPTV Streaming Quality",
+  "primary_keyword": "4K IPTV streaming",
+  "secondary": "HD vs 4K IPTV; IPTV picture quality; IPTV resolution",
+  "date": "2026-11-01"
+ },
+ {
+  "status": "published",
+  "slug": "how-much-data-does-iptv-use",
+  "title": "How Much Data Does IPTV Use? Rough Figures by Quality",
+  "category": "IPTV Streaming Quality",
+  "primary_keyword": "how much data does IPTV use",
+  "secondary": "IPTV data usage per hour; streaming data cap; IPTV mobile data",
+  "date": "2026-11-01"
+ },
+ {
+  "status": "published",
+  "slug": "iptv-subscription-length-guide",
+  "title": "1, 3, 6 or 12 Months? How to Pick an IPTV Subscription Length",
+  "category": "IPTV Subscription Guides",
+  "primary_keyword": "IPTV subscription length",
+  "secondary": "IPTV 12 month subscription; cheap IPTV UK; IPTV plan duration",
+  "date": "2026-11-01"
+ },
+ {
+  "status": "published",
+  "slug": "iptv-free-trial-what-to-test",
+  "title": "IPTV Free Trial: What to Test Before You Subscribe",
+  "category": "IPTV Subscription Guides",
+  "primary_keyword": "IPTV free trial",
+  "secondary": "IPTV trial UK; test IPTV before buying; IPTV trial checklist",
+  "date": "2026-11-01"
+ },
+ {
+  "status": "published",
+  "slug": "iptv-scams-and-safe-payment",
+  "title": "How to Spot IPTV Scams and Pay Safely",
+  "category": "IPTV Security & Privacy",
+  "primary_keyword": "IPTV scams",
+  "secondary": "safe IPTV payment; IPTV seller red flags; avoid IPTV fraud",
+  "date": "2026-11-01"
+ },
+ {
+  "status": "published",
+  "slug": "should-you-use-a-vpn-with-iptv",
+  "title": "Should You Use a VPN With IPTV? Pros, Cons and Limits",
+  "category": "IPTV Security & Privacy",
+  "primary_keyword": "VPN with IPTV",
+  "secondary": "IPTV VPN UK; does IPTV need a VPN; VPN streaming speed",
+  "date": "2026-11-01"
+ },
+ {
+  "status": "published",
+  "slug": "iptv-for-live-sports-tips",
+  "title": "Watching Live Sport on IPTV: Preparation Tips for Match Days",
+  "category": "IPTV Sports",
+  "primary_keyword": "IPTV for live sports",
+  "secondary": "IPTV sports streaming tips; watch football on IPTV; live sport buffering",
+  "date": "2026-11-01"
+ },
+ {
+  "status": "published",
+  "slug": "iptv-uk-broadband-guide",
+  "title": "UK Broadband for IPTV: Full Fibre, FTTC and Cable Compared",
+  "category": "IPTV UK Guides",
+  "primary_keyword": "UK broadband for IPTV",
+  "secondary": "best broadband for streaming UK; full fibre vs FTTC; broadband speed for streaming",
+  "date": "2026-11-01"
+ },
+ {
+  "status": "published",
+  "slug": "uk-tv-licence-and-iptv",
+  "title": "TV Licence and IPTV in the UK: What You Should Check",
+  "category": "IPTV UK Guides",
+  "primary_keyword": "TV Licence IPTV UK",
+  "secondary": "do I need a TV licence for IPTV; watch live TV online licence; UK TV licence rules",
+  "date": "2026-11-01"
+ },
+ {
+  "status": "published",
+  "slug": "how-many-devices-can-i-use-with-iptv",
+  "title": "How Many Devices Can You Use With One IPTV Subscription?",
+  "category": "IPTV FAQs",
+  "primary_keyword": "IPTV multiple devices",
+  "secondary": "IPTV simultaneous streams; IPTV connections; use IPTV on two TVs",
+  "date": "2026-11-01"
+ },
+ {
+  "status": "published",
+  "slug": "iptv-in-canada-what-to-know",
+  "title": "IPTV in Canada: What Canadian Viewers Should Know",
+  "category": "IPTV Canada Guides",
+  "primary_keyword": "IPTV in Canada",
+  "secondary": "IPTV subscription Canada; IPTV setup Canada; IPTV for Canadian viewers",
+  "date": "2026-11-01"
+ },
+ {
+  "status": "published",
+  "slug": "iptv-glossary-for-beginners",
+  "title": "IPTV Glossary: Common Terms in Plain English",
+  "category": "IPTV for Beginners",
+  "primary_keyword": "iptv glossary",
+  "secondary": "",
+  "date": "2026-11-02"
+ },
+ {
+  "status": "published",
+  "slug": "what-you-need-to-start-iptv",
+  "title": "What You Need to Start Watching IPTV",
+  "category": "IPTV for Beginners",
+  "primary_keyword": "what you need to start watching iptv",
+  "secondary": "",
+  "date": "2026-11-02"
+ },
+ {
+  "status": "published",
+  "slug": "iptv-myths-explained",
+  "title": "IPTV Myths and Misunderstandings Explained",
+  "category": "IPTV for Beginners",
+  "primary_keyword": "iptv myths and misunderstandings explained",
+  "secondary": "",
+  "date": "2026-11-02"
+ },
+ {
+  "status": "published",
+  "slug": "simple-iptv-setup-for-older-viewers",
+  "title": "A Simple IPTV Setup for Less Technical Viewers",
+  "category": "IPTV for Beginners",
+  "primary_keyword": "a simple iptv setup for less technical viewers",
+  "secondary": "",
+  "date": "2026-11-02"
+ },
+ {
+  "status": "published",
+  "slug": "watch-iptv-without-a-smart-tv",
+  "title": "Can You Watch IPTV Without a Smart TV?",
+  "category": "IPTV for Beginners",
+  "primary_keyword": "can you watch iptv without a smart tv?",
+  "secondary": "",
+  "date": "2026-11-02"
+ },
+ {
+  "status": "published",
+  "slug": "how-to-install-an-iptv-app-safely",
+  "title": "How to Install an IPTV App Safely",
+  "category": "IPTV Setup & Installation",
+  "primary_keyword": "how to install an iptv app safely",
+  "secondary": "",
+  "date": "2026-11-02"
+ },
+ {
+  "status": "published",
+  "slug": "first-time-iptv-setup-checklist",
+  "title": "First-Time IPTV Setup Checklist",
+  "category": "IPTV Setup & Installation",
+  "primary_keyword": "first-time iptv setup checklist",
+  "secondary": "",
+  "date": "2026-11-02"
+ },
+ {
+  "status": "published",
+  "slug": "iptv-on-two-tvs",
+  "title": "Setting Up IPTV on Two TVs in One Home",
+  "category": "IPTV Setup & Installation",
+  "primary_keyword": "setting up iptv on two tvs in one home",
+  "secondary": "",
+  "date": "2026-11-02"
+ },
+ {
+  "status": "published",
+  "slug": "move-iptv-to-a-new-device",
+  "title": "How to Move Your IPTV Setup to a New Device",
+  "category": "IPTV Setup & Installation",
+  "primary_keyword": "how to move your iptv setup to a new device",
+  "secondary": "",
+  "date": "2026-11-02"
+ },
+ {
+  "status": "published",
+  "slug": "reinstall-iptv-app",
+  "title": "Reinstalling an IPTV App Without Losing Access",
+  "category": "IPTV Setup & Installation",
+  "primary_keyword": "reinstalling an iptv app without losing access",
+  "secondary": "",
+  "date": "2026-11-02"
+ },
+ {
+  "status": "published",
+  "slug": "iptv-on-samsung-tv",
+  "title": "IPTV on a Samsung Smart TV: What to Check",
+  "category": "IPTV Setup & Installation",
+  "primary_keyword": "iptv on a samsung smart tv",
+  "secondary": "",
+  "date": "2026-11-02"
+ },
+ {
+  "status": "published",
+  "slug": "iptv-on-lg-tv",
+  "title": "IPTV on an LG Smart TV: What to Check",
+  "category": "IPTV Setup & Installation",
+  "primary_keyword": "iptv on an lg smart tv",
+  "secondary": "",
+  "date": "2026-11-02"
+ },
+ {
+  "status": "published",
+  "slug": "iptv-on-nvidia-shield",
+  "title": "IPTV on Nvidia Shield: Setup Notes",
+  "category": "IPTV Devices",
+  "primary_keyword": "iptv on nvidia shield",
+  "secondary": "",
+  "date": "2026-11-02"
+ },
+ {
+  "status": "published",
+  "slug": "iptv-on-chromecast-with-google-tv",
+  "title": "IPTV on Chromecast with Google TV",
+  "category": "IPTV Devices",
+  "primary_keyword": "iptv on chromecast with google tv",
+  "secondary": "",
+  "date": "2026-11-02"
+ },
+ {
+  "status": "published",
+  "slug": "iptv-on-roku",
+  "title": "IPTV on Roku: Compatibility Questions",
+  "category": "IPTV Devices",
+  "primary_keyword": "iptv on roku",
+  "secondary": "",
+  "date": "2026-11-02"
+ },
+ {
+  "status": "published",
+  "slug": "iptv-on-xbox",
+  "title": "IPTV on Xbox: What Is Possible",
+  "category": "IPTV Devices",
+  "primary_keyword": "iptv on xbox",
+  "secondary": "",
+  "date": "2026-11-02"
+ },
+ {
+  "status": "published",
+  "slug": "iptv-on-playstation",
+  "title": "IPTV on PlayStation: What Is Possible",
+  "category": "IPTV Devices",
+  "primary_keyword": "iptv on playstation",
+  "secondary": "",
+  "date": "2026-11-02"
+ },
+ {
+  "status": "published",
+  "slug": "iptv-on-android-tv-boxes",
+  "title": "Choosing an Android TV Box for IPTV",
+  "category": "IPTV Devices",
+  "primary_keyword": "choosing an android tv box for iptv",
+  "secondary": "",
+  "date": "2026-11-02"
+ },
+ {
+  "status": "published",
+  "slug": "iptv-on-chromebook",
+  "title": "IPTV on a Chromebook",
+  "category": "IPTV Devices",
+  "primary_keyword": "iptv on a chromebook",
+  "secondary": "",
+  "date": "2026-11-02"
+ },
+ {
+  "status": "published",
+  "slug": "firestick-vs-android-box-for-iptv",
+  "title": "Fire Stick vs Android TV Box for IPTV",
+  "category": "IPTV Devices",
+  "primary_keyword": "fire stick vs android tv box for iptv",
+  "secondary": "",
+  "date": "2026-11-02"
+ },
+ {
+  "status": "published",
+  "slug": "iptv-player-comparison-checklist",
+  "title": "IPTV Player Comparison Checklist",
+  "category": "IPTV Applications",
+  "primary_keyword": "iptv player comparison checklist",
+  "secondary": "",
+  "date": "2026-11-02"
+ },
+ {
+  "status": "published",
+  "slug": "parental-controls-in-iptv-apps",
+  "title": "Parental Controls in IPTV Apps",
+  "category": "IPTV Applications",
+  "primary_keyword": "parental controls in iptv apps",
+  "secondary": "",
+  "date": "2026-11-02"
+ },
+ {
+  "status": "published",
+  "slug": "favourites-and-categories-in-iptv-apps",
+  "title": "Using Favourites and Categories in IPTV Apps",
+  "category": "IPTV Applications",
+  "primary_keyword": "using favourites and categories in iptv apps",
+  "secondary": "",
+  "date": "2026-11-02"
+ },
+ {
+  "status": "published",
+  "slug": "catch-up-and-recording-explained",
+  "title": "Catch-Up and Recording in IPTV Explained",
+  "category": "IPTV Applications",
+  "primary_keyword": "catch-up and recording in iptv explained",
+  "secondary": "",
+  "date": "2026-11-02"
+ },
+ {
+  "status": "published",
+  "slug": "subtitles-in-iptv-apps",
+  "title": "Subtitles and Audio Languages in IPTV Apps",
+  "category": "IPTV Applications",
+  "primary_keyword": "subtitles and audio languages in iptv apps",
+  "secondary": "",
+  "date": "2026-11-02"
+ },
+ {
+  "status": "published",
+  "slug": "iptv-app-cache-and-storage",
+  "title": "Clearing Cache and Storage for IPTV Apps",
+  "category": "IPTV Applications",
+  "primary_keyword": "clearing cache and storage for iptv apps",
+  "secondary": "",
+  "date": "2026-11-02"
+ },
+ {
+  "status": "published",
+  "slug": "iptv-error-messages-explained",
+  "title": "IPTV Error Messages Explained",
+  "category": "IPTV Troubleshooting",
+  "primary_keyword": "iptv error messages explained",
+  "secondary": "",
+  "date": "2026-11-02"
+ },
+ {
+  "status": "published",
+  "slug": "iptv-wont-sign-in",
+  "title": "IPTV Will Not Sign In: Causes and Fixes",
+  "category": "IPTV Troubleshooting",
+  "primary_keyword": "iptv will not sign in",
+  "secondary": "",
+  "date": "2026-11-02"
+ },
+ {
+  "status": "published",
+  "slug": "iptv-app-keeps-restarting",
+  "title": "IPTV App Keeps Restarting or Closing",
+  "category": "IPTV Troubleshooting",
+  "primary_keyword": "iptv app keeps restarting or closing",
+  "secondary": "",
+  "date": "2026-11-02"
+ },
+ {
+  "status": "published",
+  "slug": "iptv-picture-pixelated",
+  "title": "IPTV Picture Pixelated or Blocky: What to Check",
+  "category": "IPTV Troubleshooting",
+  "primary_keyword": "iptv picture pixelated or blocky",
+  "secondary": "",
+  "date": "2026-11-02"
+ },
+ {
+  "status": "published",
+  "slug": "iptv-works-on-phone-not-tv",
+  "title": "IPTV Works on a Phone but Not on the TV",
+  "category": "IPTV Troubleshooting",
+  "primary_keyword": "iptv works on a phone but not on the tv",
+  "secondary": "",
+  "date": "2026-11-02"
+ },
+ {
+  "status": "published",
+  "slug": "router-restart-vs-factory-reset",
+  "title": "Router Restart vs Factory Reset for Streaming",
+  "category": "IPTV Troubleshooting",
+  "primary_keyword": "router restart vs factory reset for streaming",
+  "secondary": "",
+  "date": "2026-11-02"
+ },
+ {
+  "status": "published",
+  "slug": "iptv-after-changing-broadband",
+  "title": "IPTV Stopped After Changing Broadband Provider",
+  "category": "IPTV Troubleshooting",
+  "primary_keyword": "iptv stopped after changing broadband provider",
+  "secondary": "",
+  "date": "2026-11-02"
+ },
+ {
+  "status": "published",
+  "slug": "dns-settings-and-streaming",
+  "title": "DNS Settings and Streaming: What They Do",
+  "category": "IPTV Troubleshooting",
+  "primary_keyword": "dns settings and streaming",
+  "secondary": "",
+  "date": "2026-11-02"
+ },
+ {
+  "status": "published",
+  "slug": "football-season-iptv-checklist",
+  "title": "Football Season IPTV Checklist",
+  "category": "IPTV Sports",
+  "primary_keyword": "football season iptv checklist",
+  "secondary": "",
+  "date": "2026-11-02"
+ },
+ {
+  "status": "published",
+  "slug": "combat-sports-streaming-prep",
+  "title": "Preparing to Stream Boxing and Combat Sports",
+  "category": "IPTV Sports",
+  "primary_keyword": "preparing to stream boxing and combat sports",
+  "secondary": "",
+  "date": "2026-11-02"
+ },
+ {
+  "status": "published",
+  "slug": "f1-weekend-streaming-tips",
+  "title": "Formula 1 Weekend Streaming Tips",
+  "category": "IPTV Sports",
+  "primary_keyword": "formula 1 weekend streaming tips",
+  "secondary": "",
+  "date": "2026-11-02"
+ },
+ {
+  "status": "published",
+  "slug": "cricket-and-rugby-streaming-tips",
+  "title": "Cricket and Rugby Streaming Tips",
+  "category": "IPTV Sports",
+  "primary_keyword": "cricket and rugby streaming tips",
+  "secondary": "",
+  "date": "2026-11-02"
+ },
+ {
+  "status": "published",
+  "slug": "reduce-delay-in-live-sport-streams",
+  "title": "Why Live Sport Streams Lag and How to Reduce Delay",
+  "category": "IPTV Sports",
+  "primary_keyword": "why live sport streams lag and how to reduce delay",
+  "secondary": "",
+  "date": "2026-11-02"
+ },
+ {
+  "status": "published",
+  "slug": "hls-streaming-explained",
+  "title": "HLS Streaming Explained Simply",
+  "category": "IPTV Features & Technology",
+  "primary_keyword": "hls streaming explained simply",
+  "secondary": "",
+  "date": "2026-11-02"
+ },
+ {
+  "status": "published",
+  "slug": "bitrate-and-resolution-explained",
+  "title": "Bitrate and Resolution Explained",
+  "category": "IPTV Features & Technology",
+  "primary_keyword": "bitrate and resolution explained",
+  "secondary": "",
+  "date": "2026-11-02"
+ },
+ {
+  "status": "published",
+  "slug": "latency-in-live-streaming",
+  "title": "Latency in Live Streaming Explained",
+  "category": "IPTV Features & Technology",
+  "primary_keyword": "latency in live streaming explained",
+  "secondary": "",
+  "date": "2026-11-02"
+ },
+ {
+  "status": "published",
+  "slug": "catch-up-tv-explained",
+  "title": "Catch-Up TV Explained",
+  "category": "IPTV Features & Technology",
+  "primary_keyword": "catch-up tv explained",
+  "secondary": "",
+  "date": "2026-11-02"
+ },
+ {
+  "status": "published",
+  "slug": "multicast-vs-unicast-iptv",
+  "title": "Multicast vs Unicast in IPTV",
+  "category": "IPTV Features & Technology",
+  "primary_keyword": "multicast vs unicast in iptv",
+  "secondary": "",
+  "date": "2026-11-02"
+ },
+ {
+  "status": "published",
+  "slug": "how-to-renew-iptv-safely",
+  "title": "How to Renew an IPTV Subscription Safely",
+  "category": "IPTV Subscription Guides",
+  "primary_keyword": "how to renew an iptv subscription safely",
+  "secondary": "",
+  "date": "2026-11-02"
+ },
+ {
+  "status": "published",
+  "slug": "upgrade-your-iptv-plan",
+  "title": "Upgrading Your IPTV Plan Mid-Term",
+  "category": "IPTV Subscription Guides",
+  "primary_keyword": "upgrading your iptv plan mid-term",
+  "secondary": "",
+  "date": "2026-11-02"
+ },
+ {
+  "status": "published",
+  "slug": "iptv-payment-methods-explained",
+  "title": "IPTV Payment Methods Explained: PayPal, Binance Pay and Wise",
+  "category": "IPTV Subscription Guides",
+  "primary_keyword": "iptv payment methods explained",
+  "secondary": "",
+  "date": "2026-11-02"
+ },
+ {
+  "status": "published",
+  "slug": "iptv-refund-expectations",
+  "title": "IPTV Refunds: What to Expect and What to Ask",
+  "category": "IPTV Subscription Guides",
+  "primary_keyword": "iptv refunds",
+  "secondary": "",
+  "date": "2026-11-02"
+ },
+ {
+  "status": "published",
+  "slug": "iptv-vs-pay-per-view",
+  "title": "IPTV vs Pay-Per-View for Sport",
+  "category": "IPTV Subscription Guides",
+  "primary_keyword": "iptv vs pay-per-view for sport",
+  "secondary": "",
+  "date": "2026-11-02"
+ },
+ {
+  "status": "published",
+  "slug": "iptv-vs-freeview-and-freesat",
+  "title": "IPTV vs Freeview and Freesat",
+  "category": "IPTV Comparisons",
+  "primary_keyword": "iptv vs freeview and freesat",
+  "secondary": "",
+  "date": "2026-11-02"
+ },
+ {
+  "status": "published",
+  "slug": "iptv-vs-streaming-costs",
+  "title": "IPTV vs Stacking On-Demand Subscriptions: Cost Compared",
+  "category": "IPTV Comparisons",
+  "primary_keyword": "iptv vs stacking on-demand subscriptions",
+  "secondary": "",
+  "date": "2026-11-02"
+ },
+ {
+  "status": "published",
+  "slug": "iptv-box-vs-app",
+  "title": "IPTV Box vs App: Which Is Simpler?",
+  "category": "IPTV Comparisons",
+  "primary_keyword": "iptv box vs app",
+  "secondary": "",
+  "date": "2026-11-02"
+ },
+ {
+  "status": "published",
+  "slug": "smart-tv-app-vs-streaming-stick",
+  "title": "Smart TV App vs Streaming Stick for IPTV",
+  "category": "IPTV Comparisons",
+  "primary_keyword": "smart tv app vs streaming stick for iptv",
+  "secondary": "",
+  "date": "2026-11-02"
+ },
+ {
+  "status": "published",
+  "slug": "iptv-vs-ott-explained",
+  "title": "IPTV vs OTT: What Is the Difference?",
+  "category": "IPTV Comparisons",
+  "primary_keyword": "iptv vs ott",
+  "secondary": "",
+  "date": "2026-11-02"
+ },
+ {
+  "status": "published",
+  "slug": "why-quality-varies-by-channel",
+  "title": "Why Picture Quality Varies Between Channels",
+  "category": "IPTV Streaming Quality",
+  "primary_keyword": "why picture quality varies between channels",
+  "secondary": "",
+  "date": "2026-11-02"
+ },
+ {
+  "status": "published",
+  "slug": "best-settings-for-smooth-playback",
+  "title": "Best App Settings for Smooth Playback",
+  "category": "IPTV Streaming Quality",
+  "primary_keyword": "best app settings for smooth playback",
+  "secondary": "",
+  "date": "2026-11-02"
+ },
+ {
+  "status": "published",
+  "slug": "tv-motion-settings-and-sport",
+  "title": "TV Motion Settings for Watching Sport",
+  "category": "IPTV Streaming Quality",
+  "primary_keyword": "tv motion settings for watching sport",
+  "secondary": "",
+  "date": "2026-11-02"
+ },
+ {
+  "status": "published",
+  "slug": "upscaling-explained",
+  "title": "Upscaling Explained: Why SD Can Look Soft on a 4K TV",
+  "category": "IPTV Streaming Quality",
+  "primary_keyword": "upscaling explained",
+  "secondary": "",
+  "date": "2026-11-02"
+ },
+ {
+  "status": "published",
+  "slug": "protect-your-router-for-streaming",
+  "title": "Protecting Your Router: Basics for Streamers",
+  "category": "IPTV Security & Privacy",
+  "primary_keyword": "protecting your router",
+  "secondary": "",
+  "date": "2026-11-02"
+ },
+ {
+  "status": "published",
+  "slug": "passwords-and-two-factor-for-streaming",
+  "title": "Passwords and Two-Factor Basics for Streaming Accounts",
+  "category": "IPTV Security & Privacy",
+  "primary_keyword": "passwords and two-factor basics for streaming accounts",
+  "secondary": "",
+  "date": "2026-11-02"
+ },
+ {
+  "status": "published",
+  "slug": "public-wifi-and-streaming",
+  "title": "Streaming on Public Wi-Fi: Risks and Habits",
+  "category": "IPTV Security & Privacy",
+  "primary_keyword": "streaming on public wi-fi",
+  "secondary": "",
+  "date": "2026-11-02"
+ },
+ {
+  "status": "published",
+  "slug": "child-safety-and-streaming",
+  "title": "Child Safety and Streaming at Home",
+  "category": "IPTV Security & Privacy",
+  "primary_keyword": "child safety and streaming at home",
+  "secondary": "",
+  "date": "2026-11-02"
+ },
+ {
+  "status": "published",
+  "slug": "iptv-for-students-and-shared-houses",
+  "title": "IPTV in Student and Shared Houses",
+  "category": "IPTV UK Guides",
+  "primary_keyword": "iptv in student and shared houses",
+  "secondary": "",
+  "date": "2026-11-02"
+ },
+ {
+  "status": "published",
+  "slug": "uk-broadband-outage-what-to-do",
+  "title": "UK Broadband Outage: What to Do When Streaming Stops",
+  "category": "IPTV UK Guides",
+  "primary_keyword": "uk broadband outage",
+  "secondary": "",
+  "date": "2026-11-02"
+ },
+ {
+  "status": "published",
+  "slug": "uk-consumer-rights-digital-services",
+  "title": "UK Consumer Rights for Digital Services: A Plain Overview",
+  "category": "IPTV UK Guides",
+  "primary_keyword": "uk consumer rights for digital services",
+  "secondary": "",
+  "date": "2026-11-02"
+ },
+ {
+  "status": "published",
+  "slug": "iptv-across-the-four-nations",
+  "title": "UK Broadband Across the Four Nations for IPTV",
+  "category": "IPTV UK Guides",
+  "primary_keyword": "uk broadband across the four nations for iptv",
+  "secondary": "",
+  "date": "2026-11-02"
+ },
+ {
+  "status": "published",
+  "slug": "uk-sport-calendar-streaming-prep",
+  "title": "Planning Your Viewing Around the UK Sport Calendar",
+  "category": "IPTV UK Guides",
+  "primary_keyword": "planning your viewing around the uk sport calendar",
+  "secondary": "",
+  "date": "2026-11-02"
+ },
+ {
+  "status": "published",
+  "slug": "canadian-broadband-for-iptv",
+  "title": "Canadian Broadband for IPTV: What Matters",
+  "category": "IPTV Canada Guides",
+  "primary_keyword": "canadian broadband for iptv",
+  "secondary": "",
+  "date": "2026-11-02"
+ },
+ {
+  "status": "published",
+  "slug": "iptv-devices-in-canada",
+  "title": "IPTV Setup on Common Devices in Canada",
+  "category": "IPTV Canada Guides",
+  "primary_keyword": "iptv setup on common devices in canada",
+  "secondary": "",
+  "date": "2026-11-02"
+ },
+ {
+  "status": "published",
+  "slug": "canada-time-zones-and-live-guides",
+  "title": "Canadian Time Zones and Live TV Guides",
+  "category": "IPTV Canada Guides",
+  "primary_keyword": "canadian time zones and live tv guides",
+  "secondary": "",
+  "date": "2026-11-02"
+ },
+ {
+  "status": "published",
+  "slug": "iptv-payment-and-currency-canada",
+  "title": "Paying a UK Provider From Canada: Currency and Checks",
+  "category": "IPTV Canada Guides",
+  "primary_keyword": "paying a uk provider from canada",
+  "secondary": "",
+  "date": "2026-11-02"
+ },
+ {
+  "status": "published",
+  "slug": "can-i-pause-live-tv",
+  "title": "Can You Pause Live TV on IPTV?",
+  "category": "IPTV FAQs",
+  "primary_keyword": "can you pause live tv on iptv?",
+  "secondary": "",
+  "date": "2026-11-02"
+ },
+ {
+  "status": "published",
+  "slug": "how-long-does-iptv-setup-take",
+  "title": "How Long Does IPTV Setup Take?",
+  "category": "IPTV FAQs",
+  "primary_keyword": "how long does iptv setup take?",
+  "secondary": "",
+  "date": "2026-11-02"
+ },
+ {
+  "status": "published",
+  "slug": "why-some-channels-have-no-guide",
+  "title": "Why Some Channels Have No Programme Guide",
+  "category": "IPTV FAQs",
+  "primary_keyword": "why some channels have no programme guide",
+  "secondary": "",
+  "date": "2026-11-02"
+ },
+ {
+  "status": "published",
+  "slug": "what-happens-when-subscription-expires",
+  "title": "What Happens When an IPTV Subscription Expires?",
+  "category": "IPTV FAQs",
+  "primary_keyword": "what happens when an iptv subscription expires?",
+  "secondary": "",
+  "date": "2026-11-02"
+ }
+]
